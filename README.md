@@ -1,3 +1,5 @@
+## ✅ [CODEUP문제풀이](https://github.com/oiosu/python_study/tree/main/1day_python/codeup) (6000~6020 : 0711_MON)
+---
 # [📂PYTHON](https://github.com/oiosu/python_study/blob/main/1day_python/PYTHON_1.md)
 
 ✔ PYTHON은 컴퓨터 프로그래밍 언어 중 하나이다. 
