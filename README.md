@@ -103,8 +103,32 @@
 ---
  ### 📜 LIST
  ![image-20220711192117392](PYTHON_1.assets/image-20220711192117392.png)
- ---
- 
+---
+
+
+
+# 📂 [조건문](https://github.com/oiosu/python_study/blob/main/2day_python/PYTHON_2(1).md) 
+> 참 거짓을 판단할 수 있는 조건식과 함께 사용
+---
+### TypeError 나타난 이유 : 숫자로서의 num (타입 확인하기 문자열인지, 숫자인지)
+![image](https://user-images.githubusercontent.com/99783474/178499982-2bfa4bff-5d3c-47ff-9397-8e7f657d226c.png)
+---
+◼ 복수 조건문
+> 복수의 조건식을 활용할 경우elif를 활용하여 표현한다.
+
+◼ 중첩 조건문
+> 조건문은 다른 조건문에 중첩되어 사용될 수 있음
+
+◼ 조건 표현식
+> 조건 표현식 conditional expression
+---
+
+# 📂 [WHILE](https://github.com/oiosu/python_study/blob/main/2day_python/PYTHON_2(2).md)
+---
+
+# 📂 [FOR](https://github.com/oiosu/python_study/blob/main/2day_python/PYTHON_2(3).md)
+---
+* ✅ python 코드의 흐름을 더 자세히 알고 싶다면 python.tutor 참고하기 (너무 의지하지 말것 )
 
 
   
