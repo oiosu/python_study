@@ -1,4 +1,6 @@
 ## ✅ [CODEUP문제풀이](https://github.com/oiosu/python_study/tree/main/1day_python/codeup) (6000~6020 : 0711_MON)
+## ✅ [CODEUP문제풀이](https://github.com/oiosu/python_study/tree/main/1day_python/codeup) (6021~6045 : 0712_TUE)
+## ✅ [DAY2_실습문제](https://github.com/oiosu/python_study/tree/main/1day_python/codeup) (01~08 : 0712_TUE)
 ---
 # [📂PYTHON](https://github.com/oiosu/python_study/blob/main/1day_python/PYTHON_1.md)
 
