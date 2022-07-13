@@ -131,6 +131,103 @@
 # 📂 [FOR](https://github.com/oiosu/python_study/blob/main/2day_python/PYTHON_2(3).md)
 ---
 * ✅ python 코드의 흐름을 더 자세히 알고 싶다면 python.tutor 참고하기 (너무 의지하지 말것 )
+---
+
+> **<span style="color:red">how to</span>** 명령(명령적 지식)을 할때 어떠한 **단계**로 **구현**을 하고 있는가가 중요하다. 
+
+>  **Type** : int, float, complex, bool, str, list, tuple, range, set, dictionary, none
+---
+# 📂 1. 함수  
+**(function (어떠한 기능들을 추상화_ 출력))**
+
+> 사용자 함수 Custom Function 구현되어있는 함수가 없는 경우, 사용자가 직접 함수를 작성한다. 
+
+* 우리는 왜 함수를 사용할까? </br>
 
 
-  
+1️⃣ **Dexomposition**  기능을 분해하고 재사용이 가능하다. 
+![image](https://user-images.githubusercontent.com/99783474/178753525-670ed2c4-73d9-46dd-8152-a55c17775879.png)
+
+![image](https://user-images.githubusercontent.com/99783474/178753675-e2141fdc-726e-462d-a760-0ecc32301dcd.png)
+
+2️⃣ **Abstraction** (블랙박스_) 복잡한 내용을 숨기고 기능에 집중하여 사용할 수 있다. 재사용성, 가독성 생산성
+
+---
+
+◼ 함수 기본 구조 (defin&call, input, scope, output)
+
+![image](https://user-images.githubusercontent.com/99783474/178754188-18ca7c34-c028-4465-8311-6fa8bc24a117.png)
+
+**◼ 함수의 정의** 
+> 특정한 기능을 하는 코드의 조각(묶음)
+
+> 특정 명령을 수행하는 코드를 매번 다시 작성하지 않고, 필요시에만 호출하여 간편히 사용
+
+#
+**◼ [파이썬의 자습서](https://docs.python.org/ko/3/tutorial/index.html)** 
+
+>  **파이썬에 대한 정보 볼 수 있으니 참고할 것!**
+
+#
+**◼  선언과 호출** 
+
+>  함수의 선언은 def 키워드 활용 / 들여쓰기를 통해 function body를 작성
+
+> 함수는 parameter 를 넘겨줄 수 있음 
+
+> 함수는 동작 후에 return을 통해 결과값을 전달 
+
+>  함수는 `함수명()`으로 호출'
+#
+**◼ return** 
+> ⭐ 함수는 반드시 하나만 반환한다. 
+
+![image](https://user-images.githubusercontent.com/99783474/178754739-9fd28491-e02a-406b-bd9f-317d57fd02f6.png)
+👉 이코드의 문제점 : Code is unreachable (도달할 수 없는 코드라고 뜸)
+
+#
+👉 2개 이상의 값을 반환하고 싶다면 ? 
+![image](https://user-images.githubusercontent.com/99783474/178754856-136f480c-1406-4aba-ad7d-c9fed7674847.png)
+
+#
+**🤔 NONE TYPE** _코드 작성 실수 금지 (print vs return)
+![image](https://user-images.githubusercontent.com/99783474/178755007-3fb02c6e-32df-4de4-92bd-c14acc8b9b4b.png)
+
+---
+# 📂 2. 함수의 입력 
+◼ **parameter vs argument**
+![image](https://user-images.githubusercontent.com/99783474/178755278-ceef6b26-276d-4b1a-87be-025cc2390d25.png)
+---
+# 📂3. 함수의 범위 Scope
+> 함수는 코드 내부에 local scope를 생성하며 그 외의 공간인 global scope 로 구분
+**◼ 객체 수명주기(lifecycle)** 
+
+> 객체는 각자의 수명 주기가 존재
+
+`built-in scope` : `파이썬이 실행된 이후부터 영원히 유지 `
+
+`global scope` : `모듈이 호출된 시점 이후 혹은 인텊리터가 끝날 때까지 유지`
+
+`local scope ` :  `함수가 호출될 때 생성되고, 함수가 종료될 때까지 유지`
+
+#
+
+**◼ 이름 검색 규칙** 
+
+> 파이썬에서 사용되는 이름(식별자)들은 이름공간(namespace)에 저장
+
+> LEGB Rule
+
+> 함수 내에서는 바깥 scope의 변수에 접근 가능하나 수정 불가
+---
+# 📂 4. 함수 응용
+◼ **MAP** (function, iterable)
+
+>  특정한 함수를 반복적으로 실행하고 싶을 때 사용
+
+> 알고리즘 문제 풀이 시 input 값들을 숫자로 바로 활용하고 싶을 때 사용 
+![image](https://user-images.githubusercontent.com/99783474/178755446-bae2ab6a-73b0-4f15-9f43-b91fb25af0a1.png)
+
+
+
+
