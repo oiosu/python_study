@@ -241,7 +241,7 @@
 
 * MIT python = 전공지식
 ---
-
+# [PYTHON](https://github.com/oiosu/python_study/blob/main/PYTHON_4.md)
 
 ![image-20220714101455559](PYTHON_4.assets/image-20220714101455559.png)
 
