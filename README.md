@@ -138,7 +138,7 @@
 
 >  **Type** : int, float, complex, bool, str, list, tuple, range, set, dictionary, none
 ---
-# 📂 [1. 함수](https://github.com/oiosu/python_study/tree/main/3day_python)  
+# 📂 [함수](https://github.com/oiosu/python_study/tree/main/3day_python)  
 **(function (어떠한 기능들을 추상화_ 출력))**
 
 > 사용자 함수 Custom Function 구현되어있는 함수가 없는 경우, 사용자가 직접 함수를 작성한다. 
@@ -195,11 +195,11 @@
 ![image](https://user-images.githubusercontent.com/99783474/178755007-3fb02c6e-32df-4de4-92bd-c14acc8b9b4b.png)
 
 ---
-# 📂 2. 함수의 입력 
+# 📂 함수의 입력 
 ◼ **parameter vs argument**
 ![image](https://user-images.githubusercontent.com/99783474/178755278-ceef6b26-276d-4b1a-87be-025cc2390d25.png)
 ---
-# 📂3. 함수의 범위 Scope
+# 📂 함수의 범위 Scope
 > 함수는 코드 내부에 local scope를 생성하며 그 외의 공간인 global scope 로 구분
 **◼ 객체 수명주기(lifecycle)** 
 
@@ -221,7 +221,7 @@
 
 > 함수 내에서는 바깥 scope의 변수에 접근 가능하나 수정 불가
 ---
-# 📂 4. 함수 응용
+# 📂 함수 응용
 ◼ **MAP** (function, iterable)
 
 >  특정한 함수를 반복적으로 실행하고 싶을 때 사용
@@ -229,6 +229,54 @@
 > 알고리즘 문제 풀이 시 input 값들을 숫자로 바로 활용하고 싶을 때 사용 
 ![image](https://user-images.githubusercontent.com/99783474/178755446-bae2ab6a-73b0-4f15-9f43-b91fb25af0a1.png)
 
+---
+**📜 python을 더 공부하고 싶다면!?**
+
+* 파이썬 자습서(공식문서)
+
+* 파이썬 위키독스(점프 투파이썬) = 온라인 책
+
+* 파이썬 코딩도장 = 온라인 책 
+
+* MIT python = 전공지식
+---
+
+
+![image-20220714101455559](PYTHON_4.assets/image-20220714101455559.png)
+
+ # 📂 str 문자열 탐색
+
+`.find(x)` x의 **<span style="color:red"> 첫번째 위치 </span>**를 반환, **<span style="color:red"> 없으면, -1 </span>**
+
+`.index(x)` x의 첫번째 위치를 반환, **<span style="color:red"> 없으면, 오류발생 </span>**
+
+
+### ⭐ 문자열 변경 
+
+
+**✅ .replace / .strip /  .split / 'separator'.join** 
+#
+**📌 문자열은 스스로 바뀌는 경우가 없다. **
+
+**🤔 why = immutable 이기 때문 / 모두 바뀐 결과를 반환한다.** 
+
+<span style="color:blue"> **( inmutable = 문자열, 튜플, 레인지)**</span>
+#
+# 📂 list 리스트
+**.append .pop .sort .count** 
+#
+# 📂 탐색 및 정렬
+**.index(x) /  .count(x) / .sort() / .reverse()
+---
+**◼  mutable vs immutable**
+![image](https://user-images.githubusercontent.com/99783474/178917683-981ee78e-d0dd-483c-be7a-98129ad895ab.png)
+#
+**📌 주의할 점** 
+![image](https://user-images.githubusercontent.com/99783474/178917771-1311348c-e017-4949-8388-44284290a173.png)
+---
+# 📂 딕셔너리 (키-값)
+**.get /  .pop / .update**
+![image](https://user-images.githubusercontent.com/99783474/178918034-524e53dc-8f3f-4678-9955-d626497f7c26.png)
 
 
 
