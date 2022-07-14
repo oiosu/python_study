@@ -1,7 +1,8 @@
-## ✅ [CODEUP문제풀이](https://github.com/oiosu/python_study/tree/main/1day_python/codeup) (6000~6020 : 0711_MON)
-## ✅ [CODEUP문제풀이](https://github.com/oiosu/python_study/tree/main/1day_python/codeup) (6021~6045 : 0712_TUE)
-## ✅ [DAY2_실습문제](https://github.com/oiosu/python_study/tree/main/2day_python/day2_%EC%8B%A4%EC%8A%B5%EB%AC%B8%EC%A0%9C) (01~08 : 0712_TUE)
-## ✅ [DAY3_실습문제](https://github.com/oiosu/python_study/tree/main/3day_python) (01~07 : 0713_WED)
+#### ✅ [CODEUP문제풀이](https://github.com/oiosu/python_study/tree/main/1day_python/codeup) (6000~6020 : 0711_MON)
+#### ✅ [CODEUP문제풀이](https://github.com/oiosu/python_study/tree/main/1day_python/codeup) (6021~6045 : 0712_TUE)
+#### ✅ [DAY2_실습문제](https://github.com/oiosu/python_study/tree/main/2day_python/day2_%EC%8B%A4%EC%8A%B5%EB%AC%B8%EC%A0%9C) (01~08 : 0712_TUE)
+#### ✅ [DAY3_실습문제](https://github.com/oiosu/python_study/tree/main/3day_python) (01~07 : 0713_WED)
+#### ✅ [DAY4_실습문제](https://github.com/oiosu/python_study/tree/main/4day_%EC%8B%A4%EC%8A%B5%EB%AC%B8%EC%A0%9C) (14~18 : 0714_THU)
 ---
 # [📂PYTHON](https://github.com/oiosu/python_study/blob/main/1day_python/PYTHON_1.md)
 
