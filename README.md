@@ -4,6 +4,9 @@
 #### ✅ [DAY3_실습문제](https://github.com/oiosu/python_study/tree/main/3day_python) (01~07 : 0713_WED)
 #### ✅ [DAY4_실습문제](https://github.com/oiosu/python_study/tree/main/4day_%EC%8B%A4%EC%8A%B5%EB%AC%B8%EC%A0%9C) (14~18 : 0714_THU)
 ---
+### If you want to know more, please visit the blog.
+### https://areuready.tistory.com/
+---
 # [📂PYTHON](https://github.com/oiosu/python_study/blob/main/1day_python/PYTHON_1.md)
 
 ✔ PYTHON은 컴퓨터 프로그래밍 언어 중 하나이다. 
