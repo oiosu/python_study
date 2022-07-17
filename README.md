@@ -245,6 +245,7 @@
 * MIT python = 전공지식
 ---
 # [PYTHON](https://github.com/oiosu/python_study/blob/main/PYTHON_4.md)
+---
 
 ![image-20220714101455559](PYTHON_4.assets/image-20220714101455559.png)
 
@@ -282,5 +283,8 @@
 **.get /  .pop / .update**
 ![image](https://user-images.githubusercontent.com/99783474/178918034-524e53dc-8f3f-4678-9955-d626497f7c26.png)
 
+
+---
+# [모듈 & JSON](https://github.com/oiosu/python_study/blob/main/5day_python/PYTHON_5.md)
 
 
