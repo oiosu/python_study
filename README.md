@@ -3,6 +3,7 @@
 #### ✅ [DAY2_실습문제](https://github.com/oiosu/python_study/tree/main/2day_python/day2_%EC%8B%A4%EC%8A%B5%EB%AC%B8%EC%A0%9C) (01~08 : 0712_TUE)
 #### ✅ [DAY3_실습문제](https://github.com/oiosu/python_study/tree/main/3day_python) (01~07 : 0713_WED)
 #### ✅ [DAY4_실습문제](https://github.com/oiosu/python_study/tree/main/4day_%EC%8B%A4%EC%8A%B5%EB%AC%B8%EC%A0%9C) (14~18 : 0714_THU)
+#### ✅ [DAY6_실습문제](https://github.com/oiosu/python_study/tree/main/6day_python) (0718_MON)
 ---
 ### If you want to know more, please visit the blog.
 ### https://areuready.tistory.com/
@@ -286,5 +287,7 @@
 
 ---
 # 📂 [모듈 & JSON](https://github.com/oiosu/python_study/blob/main/5day_python/PYTHON_5.md)
+---
+# 📂 [Python_Error](https://github.com/oiosu/python_study/blob/main/6day_python/PYTHON_6.md)
 
 
