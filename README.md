@@ -294,3 +294,109 @@
 # 📂 [Python_Error](https://github.com/oiosu/python_study/blob/main/6day_python/PYTHON_6.md)
 
 
+✔ 접근 방법
+- 내가 어떤 함수를 원하는지 확인하기
+- 오류가 난 지점으로 부터 단락을 나눠 하나씩 소거해나가면서 오류 해결해 나가기
+- 해당하는 위치를 찾아 에러 메시지를 해결
+- 당황해하지 말고 차분하게 신중하게 살펴보기
+#
+
+## 💁‍♀️ [vs code debugging](https://code.visualstudio.com/docs/editor/debugging)
+
+◾ SyntaxError
+
+
+◾ TypeError
+
+
+◾ ValueError
+
+
+◾ IndexError
+
+
+◾ KeyError
+
+
+◾ ModulenotfoundError
+
+
+◾ ImportError
+
+
+◾ IndentationError
+
+
+◾ Keyboardlntrrupt
+
+
+---
+## 📂 [OOP(Object oriented programming)](https://github.com/oiosu/python_study/blob/main/6day_python/PYTHON_6.md)
+![image-20220720170214163](PYTHON_7.assets/image-20220720170214163.png)
+#
+## **👉 [객체지향 프로그래밍에 대해 더 알아보기](https://hongong.hanbit.co.kr/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%9A%A9%EC%96%B4-%EC%A0%95%EB%A6%AC-3%ED%83%84-%EB%AA%A8%EB%93%88-%ED%81%B4%EB%9E%98%EC%8A%A4/)**
+
+: 프로그램을 개발하는 기법으로 부품에 해당하는 객체들을 먼저 만들고, 이것들을 하나씩 조립 및 연결해서 전체 프로그램을 완성하는 기법이다. 
+
+* 객체 지향 프로그래밍의 특징 : 상속, 다형성, 캡슐화 
+
+🔹 **class 클래스** : 객체에 포함할 변수와 함수를 미리 정의한 것, 객체의 설계도에 해당
+
+🔹 **abstraction 추상화** : 프로그램에서 필요한 요소만을 사용해서 객체를 표현한 것 
+
+🔹 **object 객체** : 여러가지 속성을 가질 수 있는 대상 
+
+🔹  **instance 인스턴스** : 클래스 기반으로 만들어진 객체 
+
+![image](https://user-images.githubusercontent.com/99783474/180030618-38b95c2c-a49f-415a-b5db-04854419ac5a.png)
+
+#
+## 🧐 절차지향 프로그래밍 
+
+
+## 🧐 현실 세계를 프로그램 셀계에 반영(추상화) person
+
+#
+
+![image](https://user-images.githubusercontent.com/99783474/180030941-76f1244e-4642-45d4-8ee4-652c129b0b11.png)
+
+
+### 📜 객체 지향의 장점 
+
+객체지향 프로그래밍은 **프로그램을 유연하고 변경이 용이**하게 만들기 때문에 
+
+대규모 소프트웨어 개발에 많이 사용됨  (즉, 편리하게 사용할 수 있다고 생각하기)
+
+프로그래밍을 더 배우기 쉽게 하고 **소프트웨어 개발과 보수를 간편**하게 하며, 보다 
+
+**직관적인 코드 분석**을 가능하게 하는 장점 가짐 
+#
+
+🔻 기본문법
+
+![image-20220720214601863](PYTHON_7.assets/image-20220720214601863.png)
+
+#
+
+* **속성 : 특정 데이터 타입/ 클래스의 객체들의 가지게 될 상태 / 데이터를 의미**
+* **메소드 : 특정 데이터 타입 / 클래스의 객체에 공통적으로 적용 가능한 행위(함수)**
+
+
+* 객체 비교하기 
+* 인스턴스 변수 
+* 인스턴스 메소드 
+* 생성자 메소드 
+
+### 👉 self 란 : 인스턴스 자기자신!
+
+**self로 정의하는 것이 중요** **(파이썬의 암묵적인 규칙)**
+
+**파이썬에서 인스턴스 메소드는 호출 시 첫번째로 전달 되도록 설계**
+
+
+
+
+
+
+
+
