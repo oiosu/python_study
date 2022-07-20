@@ -207,6 +207,8 @@
 ---
 # 📂 함수의 범위 Scope
 > 함수는 코드 내부에 local scope를 생성하며 그 외의 공간인 global scope 로 구분
+
+
 **◼ 객체 수명주기(lifecycle)** 
 
 > 객체는 각자의 수명 주기가 존재
@@ -263,7 +265,7 @@
 
 **✅ .replace / .strip /  .split / 'separator'.join** 
 #
-**📌 문자열은 스스로 바뀌는 경우가 없다. **
+**📌 문자열은 스스로 바뀌는 경우가 없다.**
 
 **🤔 why = immutable 이기 때문 / 모두 바뀐 결과를 반환한다.** 
 
