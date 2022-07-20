@@ -275,7 +275,7 @@
 **.append .pop .sort .count** 
 #
 # 📂 탐색 및 정렬
-**.index(x) /  .count(x) / .sort() / .reverse()
+.index(x) /  .count(x) / .sort() / .reverse()
 ---
 **◼  mutable vs immutable**
 ![image](https://user-images.githubusercontent.com/99783474/178917683-981ee78e-d0dd-483c-be7a-98129ad895ab.png)
