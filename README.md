@@ -396,6 +396,96 @@
 **파이썬에서 인스턴스 메소드는 호출 시 첫번째로 전달 되도록 설계**
 
 
+---
+# 📂 [Python_응용/심화](https://github.com/oiosu/python_study/blob/main/9day_python/PYTHON_9.md)
+
+
+* **list Comprehension** 
+
+: 표현식과 제어문을 통해 특정한 값을 가진 리스트를 간결하게 생성하는 방법 
+
+
+* **Dictionary Comprehension**
+
+: 표현식과 제어문을 통해 특정한 값을 가진 리스트를 간결하게 생성하는 방법 
+
+```# map(____, _____)
+# map(int, input().split())
+# int 함수를 적용하는 것 
+# map(함수, 반복가능한 것)
+# 반복 가능한 것들의 모든 요소에 함수를 적용시킨 결과를 
+# map object로 반환한다. 
+
+#int형 변환함수를 
+#input으로 받은 것을 쪼갠 결과인 리스트에 각각 적용한다. 
+
+
+# 기본 반복 / 조건 코드
+numbers = [1, 2, 5, 10, 3, 9, 12]
+result = []
+for number in numbers:
+    if numbers % 3 == 0:
+        result.append(number*3)
+print(result)     
+# [3, 6, 15, 30, 9, 27, 36]
+
+
+# 만약 map으로 사용하고 싶다면?
+# (이 코드가 좋다는 것은 아님)
+# 첫번째로 함수를 정의해야 한다. 
+
+def divided_by_3(number):
+    return number * 3
+
+print(list(map(multiple_3, numbers)))
+# [3, 6, 15, 30, 9, 27, 36]
+
+# 이 함수는 계속 사용되지 않고, map에서만 사용된다. 
+# 임시적인 함수를 만들고 싶다. => lambda
+# 람다 활용
+print(list(map(lambda n: n*3, numbers)))
+# [3, 6, 15, 30, 9, 27, 36]
+
+
+```
+
+* **lambda [parameter] : 표현식**
+
+: 표현식을 계산한 결과값을 반환하는 함수로, 이름이 없는 함수라서 익명함수라고도 불린다. 
+
+: return 문을 가질 수 없다. 
+
+: 간편 조건문 외 조건문이나 반복문을 가질 수 없다. 
+
+: 함수를 정의해서 사용하는 것보다 간결하게 사용이 가능하며 def를 사용할 수 없는 곳에 사용 가능하다.
+
+
+
+* **filter (functin, iterable)**
+ : 순회 가능한 데이터구조의 모든 요소에 함수를 적용하고 그 결과가 true인 것들을 filter objext로 반환
+ 
+ * **pip**
+
+: 파이썬 패키기 관리자 
+
+: PyPI에 저장된 외부 패키지들을 설치하도록 도와주는 패키지 관리 시스템 
+
+`pip install SomePackage`
+
+`pip install SomePackage==1.0.5`
+
+`pip install 'SomePackage>=1.0.4`
+
+👉 모두 bash, cmd 환경에서 사용되는 명령어!
+
+
+* **venv**
+
+​	: 가상환경을 포함하는 디렉토리의 이름 
+
+​	: 가상환경 비활성화 : `$ deactivate` 명령어를 사용
+
+
 
 
 
