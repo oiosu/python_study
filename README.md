@@ -1,18 +1,11 @@
-#### ✅ [CODEUP문제풀이](https://github.com/oiosu/python_study/tree/main/1day_python/codeup) (6000~6020 : 0711_MON)
-#### ✅ [CODEUP문제풀이](https://github.com/oiosu/python_study/tree/main/1day_python/codeup) (6021~6045 : 0712_TUE)
-#### ✅ [DAY2_실습문제](https://github.com/oiosu/python_study/tree/main/2day_python/day2_%EC%8B%A4%EC%8A%B5%EB%AC%B8%EC%A0%9C) (01~08 : 0712_TUE)
-#### ✅ [DAY3_실습문제](https://github.com/oiosu/python_study/tree/main/3day_python) (01~07 : 0713_WED)
-#### ✅ [DAY4_실습문제](https://github.com/oiosu/python_study/tree/main/4day_%EC%8B%A4%EC%8A%B5%EB%AC%B8%EC%A0%9C) (14~18 : 0714_THU)
-#### ✅ [DAY6_실습문제](https://github.com/oiosu/python_study/tree/main/6day_python) (0718_MON)
-#### ✅ [DAY7_실습문제](https://github.com/oiosu/python_study/tree/main/day7_20%2C21) (0719_TUE)
----
-### If you want to know more, please visit the blog.
-### https://areuready.tistory.com/
----
-# [📂PYTHON](https://github.com/oiosu/python_study/blob/main/1day_python/PYTHON_1.md)
+# 📂 **PYTHON**
 
-✔ PYTHON은 컴퓨터 프로그래밍 언어 중 하나이다. 
-
+#### ✅ [DAY2_실습문제](https://github.com/oiosu/python_study/tree/main/2day_python/day2_%EC%8B%A4%EC%8A%B5%EB%AC%B8%EC%A0%9C)    ✅ [DAY3_실습문제](https://github.com/oiosu/python_study/tree/main/3day_python)   ✅ [DAY4_실습문제](https://github.com/oiosu/python_study/tree/main/4day_%EC%8B%A4%EC%8A%B5%EB%AC%B8%EC%A0%9C)  ✅ [DAY6_실습문제](https://github.com/oiosu/python_study/tree/main/6day_python)  ✅ [DAY7_실습문제](https://github.com/oiosu/python_study/tree/main/day7_20%2C21) 
+---
+### 😎 If you want to know more, please visit My Blog!!!!
+### [ARU](https://areuready.tistory.com/) https://areuready.tistory.com/
+---
+### [ **PYTHON은 컴퓨터 프로그래밍 언어 중 하나이다.** ](https://github.com/oiosu/python_study/blob/main/1day_python/PYTHON_1.md)
 
 * <span style="color:blue">선언적 지식 (declarative knowledge)  사실에 대한 내용</span>
 
