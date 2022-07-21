@@ -12,7 +12,7 @@
 
 * <span style="color:red">명령적 지식 (imperative knowledge) how-to</span> 
 ---
-### 🧐 PYTHON 이란?  `easy to learn` 
+### 🧐 `easy to learn` 
 * 다른 프로그래밍 언어보다 문법이 간단하다면서도 업격하지 않다. 
 
 * 변수어 별도의 타입 지정이 필요가 없다. 
@@ -23,23 +23,22 @@
 * Expressive Language `print('Hello Python!')`
 * 크로스 플랫폼 언어 : 윈도우즈, macOS, 리눅스, 유닉스 등 다양한 운영체제에서 실행가능
 ---
-### 💁‍♀️ PYTHON 특징
+### 💁‍♀️ PYTHON 특징_인터프리터 언어 
 
-* 인터프리터 언어 
+◾ 소스 코드를 기계어로 변환하는 컴파일 과정 없이 바로 실행 가능
 
-> ◾ 소스 코드를 기계어로 변환하는 컴파일 과정 없이 바로 실행 가능
->
-> ◾ 코드를 대화하듯 한 줄 입력하고 실행한 후 바로 확인이 가능 
 
-* ⭐ **객체 지향 프로그래밍** (Object Oriented Programming)
+◾ 코드를 대화하듯 한 줄 입력하고 실행한 후 바로 확인이 가능 
+
+* ⭐ **객체 지향 프로그래밍 (Object Oriented Programming)**
 
   : 파이썬은 객체 지향 언어이며, 모든 것이 객체로 구현되어 있다. 
 
   * <span style="color:red">객체(object)</span> : 숫자, 문자, 클래스 등 값을 가지고 있는 모든 것
+---
+### ⭐ **파이썬에서 제안하는 스타일 가이드** )  **[PEP 8 – Style Guide for Python Code](https://peps.python.org/pep-0008/)**
   ---
-  ⭐ **파이썬에서 제안하는 스타일 가이드** ) **[PEP 8 – Style Guide for Python Code](https://peps.python.org/pep-0008/)**
-  ---
-  ### 🔻 변수 (variable)
+  ### ◼ 변수 (variable)
   > 컴퓨터 메모리 어딘가에 저장되어 있는 객체를 참조하기 위해 사용되는 이름 
 
   > 파이썬은 객체지향 언어이먀, 모든 것이 객체로 구현되어 있다. 
@@ -47,14 +46,14 @@
   > 참조하는 객체가 바뀔 수 있기 때문에 '변수'라고 불린다.
   
   
-  ### 🔻 식별자 (identifiers)
+  ### ◼ 식별자 (identifiers)
   > 파이썬 객체를 식별하는데 사용하는 이름 [규칙 알고 있기]
   
   
-  ### 🔻사용자 입력 
+  ### ◼사용자 입력 
   > **input([prompt])**`name = input('이름을 입력해주세요')`
   
-  ### 🔻 주석 (comment)
+  ### ◼ 주석 (comment)
   > 중요한 점이나 다시 확인하여야 하는 부분을 표시하며 주석을 작성하는 습관은 중요함
   
   ---
@@ -62,7 +61,7 @@
   ### 📜 파이썬 기본 자료형 python datatype
   ![image-20220711164905216](PYTHON_1.assets/image-20220711164905216.png)
 
-#### ◼ Boolean (true, false )
+### ◼ Boolean (True, False )
 
 ◼ 비교 논리 연산 (논리 연산자 logical operator)
 
@@ -72,7 +71,7 @@
 
   `#true`
 
-#### ◼ Numeric (int, float, complex)
+### ◼ Numeric (int, float, complex)
 * int 모든 정수, 매우 큰 수를 나타낼 때 오버플로우가 발생안함 
 
 * float 정수가 아닌 모든 실수, 부동소수점
@@ -85,7 +84,7 @@
 
 * complex 실수부와 허수부로 구성된 복소수 
 
-#### ◼ String
+### ◼ String
 
 * 모든 문자는 str 타입
 * 문자열은 묶을 때 동일한 작은 따옴표나 큰 따옴표를 활용하여 표기
@@ -110,7 +109,9 @@
 
 
 # 📂 [조건문](https://github.com/oiosu/python_study/blob/main/2day_python/PYTHON_2(1).md) 
-> 참 거짓을 판단할 수 있는 조건식과 함께 사용
+
+
+### 참 거짓을 판단할 수 있는 조건식과 함께 사용
 ---
 ### TypeError 나타난 이유 : 숫자로서의 num (타입 확인하기 문자열인지, 숫자인지)
 ![image](https://user-images.githubusercontent.com/99783474/178499982-2bfa4bff-5d3c-47ff-9397-8e7f657d226c.png)
@@ -154,7 +155,7 @@
 
 ---
 
-◼ 함수 기본 구조 (defin&call, input, scope, output)
+### ◼ 함수 기본 구조 (defin&call, input, scope, output)
 
 ![image](https://user-images.githubusercontent.com/99783474/178754188-18ca7c34-c028-4465-8311-6fa8bc24a117.png)
 
@@ -164,9 +165,10 @@
 > 특정 명령을 수행하는 코드를 매번 다시 작성하지 않고, 필요시에만 호출하여 간편히 사용
 
 #
-**◼ [파이썬의 자습서](https://docs.python.org/ko/3/tutorial/index.html)** 
+### **🧐  [파이썬의 자습서](https://docs.python.org/ko/3/tutorial/index.html)** 
 
->  **파이썬에 대한 정보 볼 수 있으니 참고할 것!**
+
+#### **파이썬에 대한 정보 볼 수 있으니 참고할 것!**
 
 #
 **◼  선언과 호출** 
@@ -194,11 +196,12 @@
 ![image](https://user-images.githubusercontent.com/99783474/178755007-3fb02c6e-32df-4de4-92bd-c14acc8b9b4b.png)
 
 ---
-# 📂 함수의 입력 
+### 💁‍♀️ 함수의 입력 
+
 ◼ **parameter vs argument**
 ![image](https://user-images.githubusercontent.com/99783474/178755278-ceef6b26-276d-4b1a-87be-025cc2390d25.png)
 ---
-# 📂 함수의 범위 Scope
+### 💁‍♀️ 함수의 범위 Scope
 > 함수는 코드 내부에 local scope를 생성하며 그 외의 공간인 global scope 로 구분
 
 
@@ -222,7 +225,7 @@
 
 > 함수 내에서는 바깥 scope의 변수에 접근 가능하나 수정 불가
 ---
-# 📂 함수 응용
+### 💁‍♀️함수 응용
 ◼ **MAP** (function, iterable)
 
 >  특정한 함수를 반복적으로 실행하고 싶을 때 사용
@@ -241,7 +244,7 @@
 
 * MIT python = 전공지식
 ---
-# [PYTHON](https://github.com/oiosu/python_study/blob/main/PYTHON_4.md)
+# [Python_Data](https://github.com/oiosu/python_study/blob/main/PYTHON_4.md)
 ---
 
 ![image-20220714101455559](PYTHON_4.assets/image-20220714101455559.png)
