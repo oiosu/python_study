@@ -372,7 +372,11 @@
 
 ### 🔻 기본문법
 
-![image-20220720214601863](PYTHON_7.assets/image-20220720214601863.png)
+
+
+![KakaoTalk_20220720_214531787](https://user-images.githubusercontent.com/99783474/180247718-153db33f-1a16-41ae-b30a-a367b131e8ea.jpg)
+
+
 
 #
 
