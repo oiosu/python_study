@@ -244,22 +244,20 @@
 
 * MIT python = 전공지식
 ---
-# [Python_Data](https://github.com/oiosu/python_study/blob/main/PYTHON_4.md)
+# 📂 [Python_Type, Method](https://github.com/oiosu/python_study/blob/main/PYTHON_4.md)
 ---
 
 ![image-20220714101455559](PYTHON_4.assets/image-20220714101455559.png)
 
- # 📂 str 문자열 탐색
+ ### ◼ str 문자열 탐색
 
 `.find(x)` x의 **<span style="color:red"> 첫번째 위치 </span>**를 반환, **<span style="color:red"> 없으면, -1 </span>**
 
 `.index(x)` x의 첫번째 위치를 반환, **<span style="color:red"> 없으면, 오류발생 </span>**
 
 
-### ⭐ 문자열 변경 
-
-
-**✅ .replace / .strip /  .split / 'separator'.join** 
+### ⭐ 문자열 변경  
+### **.replace() / .strip() /  .split() / 'separator'.join** 
 #
 **📌 문자열은 스스로 바뀌는 경우가 없다.**
 
@@ -267,11 +265,11 @@
 
 <span style="color:blue"> **( inmutable = 문자열, 튜플, 레인지)**</span>
 #
-# 📂 list 리스트
-**.append .pop .sort .count** 
+### ✔ list 리스트
+### **.append() / .pop() / .sort() / .count()** 
 #
-# 📂 탐색 및 정렬
-.index(x) /  .count(x) / .sort() / .reverse()
+### ✔ 탐색 및 정렬
+### .index() /  .count() / .sort() / .reverse()
 ---
 **◼  mutable vs immutable**
 ![image](https://user-images.githubusercontent.com/99783474/178917683-981ee78e-d0dd-483c-be7a-98129ad895ab.png)
@@ -279,8 +277,8 @@
 **📌 주의할 점** 
 ![image](https://user-images.githubusercontent.com/99783474/178917771-1311348c-e017-4949-8388-44284290a173.png)
 ---
-# 📂 딕셔너리 (키-값)
-**.get /  .pop / .update**
+### ✔ 딕셔너리 (키-값)
+### **.get() / .pop() / .update()**
 ![image](https://user-images.githubusercontent.com/99783474/178918034-524e53dc-8f3f-4678-9955-d626497f7c26.png)
 
 
@@ -299,36 +297,40 @@
 
 ## 💁‍♀️ [vs code debugging](https://code.visualstudio.com/docs/editor/debugging)
 
-◾ SyntaxError
+◾ SyntaxError : 문법적으로 잘못 작성했을 때 발생하는 오류 (줄에서 오류가 발생되는 위치를 가리키는 캐럿(^)를 표시됨)
 
 
-◾ TypeError
+◾ TypeError : 해당되는 Type이 잘못되었을 때 발생되는 오류 (발생되는 오류 예시를 통해 익숙해지며 당황하지 말 것)
 
 
-◾ ValueError
+◾ ValueError : Type은 올바르나 값이 적절하지 않거나 없는 경우에 발생되는 오류 
 
 
-◾ IndexError
+◾ IndexError : 범위를 벗어난 리스트 인덱스, 즉 리스트 안에 데이터 수가 부족하면 발생하는 오류 
 
 
-◾ KeyError
+◾ KeyError : 실제로 key가 없어서 발생하는 오류 
 
 
-◾ ModulenotfoundError
+◾ ModulenotfoundError : 존재하지 않는 모듈을 import을 할 때 발생되는 오류 
 
 
-◾ ImportError
+◾ ImportError : 모듈은 있으나 존재하지 않는 클래스/함수를 가져오는 경우 발생되는 오류 (오타일 때 많이 발생)
 
 
-◾ IndentationError
+◾ IndentationError : 들여쓰기가 잘 되어있지 않을 때 발생되는 오류 
 
 
-◾ Keyboardlntrrupt
+◾ Keyboardlntrrupt : 임의로 프로그램을 종료했을 때 발생되는 오류 
 
 
 ---
 ## 📂 [OOP(Object oriented programming)](https://github.com/oiosu/python_study/blob/main/6day_python/PYTHON_6.md)
-![image-20220720170214163](PYTHON_7.assets/image-20220720170214163.png)
+
+
+![KakaoTalk_20220720_223748083](https://user-images.githubusercontent.com/99783474/180247220-91d82c5a-bf56-4d54-a1c0-ee3b57968cf6.jpg)
+
+
 #
 ## **👉 [객체지향 프로그래밍에 대해 더 알아보기](https://hongong.hanbit.co.kr/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%9A%A9%EC%96%B4-%EC%A0%95%EB%A6%AC-3%ED%83%84-%EB%AA%A8%EB%93%88-%ED%81%B4%EB%9E%98%EC%8A%A4/)**
 
@@ -347,10 +349,10 @@
 ![image](https://user-images.githubusercontent.com/99783474/180030618-38b95c2c-a49f-415a-b5db-04854419ac5a.png)
 
 #
-## 🧐 절차지향 프로그래밍 
+## 🧐 [절차지향 프로그래밍](https://github.com/oiosu/python_study/blob/main/8day_python/PYTHON_8.md) 
 
 
-## 🧐 현실 세계를 프로그램 셀계에 반영(추상화) person
+## 🧐 [현실 세계를 프로그램 셀계에 반영(추상화) person](https://github.com/oiosu/python_study/blob/main/8day_python/PYTHON_8.md)
 
 #
 
@@ -368,14 +370,14 @@
 **직관적인 코드 분석**을 가능하게 하는 장점 가짐 
 #
 
-🔻 기본문법
+### 🔻 기본문법
 
 ![image-20220720214601863](PYTHON_7.assets/image-20220720214601863.png)
 
 #
 
-* **속성 : 특정 데이터 타입/ 클래스의 객체들의 가지게 될 상태 / 데이터를 의미**
-* **메소드 : 특정 데이터 타입 / 클래스의 객체에 공통적으로 적용 가능한 행위(함수)**
+### * **속성 : 특정 데이터 타입/ 클래스의 객체들의 가지게 될 상태 / 데이터를 의미**
+### * **메소드 : 특정 데이터 타입 / 클래스의 객체에 공통적으로 적용 가능한 행위(함수)**
 
 
 * 객체 비교하기 
